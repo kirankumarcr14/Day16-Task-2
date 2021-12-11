@@ -1,0 +1,25 @@
+.header{
+    background-color:darkslateblue;
+    width: 100%;
+    height: 75px;
+}
+.fa-github{
+    color: floralwhite;
+    height: fit-content;
+    padding-left: 45px;
+    padding-top: 25px;
+    font-size: larger;
+    text-align: center;
+}
+.fa{
+    text-align: center;
+}
+.inside{
+    background-color: dimgrey;
+    width: 100%;
+    height: 500px;
+}
+.box1{
+    height: 300px;
+    width: 100px;
+}
